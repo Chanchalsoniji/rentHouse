@@ -18,7 +18,6 @@
       <a href="#technologies-used">Technologies used</a>
     </li>
     <li><a href="#screenshots">UI Screenshots</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -68,14 +67,5 @@ List of major technologies and frameworks that were used to built this project.
 ![SideNav](https://user-images.githubusercontent.com/51289274/132853943-6a2bc4f6-7552-485a-aeeb-0d3311240567.png)
 
 ![LogReg](https://user-images.githubusercontent.com/51289274/132853923-7ab8f00e-687e-42a9-a4d3-20bf02b63860.png)
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link:
-> [https://github.com/igoswamik/rentHouse-frontend-part](https://github.com/igoswamik/rentHouse-frontend-part)
-
-> [https://github.com/igoswamik/rentHouse-back-end](https://github.com/igoswamik/rentHouse-back-end)
 
 
