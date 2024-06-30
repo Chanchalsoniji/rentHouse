@@ -72,8 +72,6 @@ List of major technologies and frameworks that were used to built this project.
 
 <!-- CONTACT -->
 ## Contact
-~built by,
-Kulbhushan Goswami - [LinkedIn](https://linkedin.com/kg457)
 
 Project Link:
 > [https://github.com/igoswamik/rentHouse-frontend-part](https://github.com/igoswamik/rentHouse-frontend-part)
